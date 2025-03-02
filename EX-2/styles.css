@@ -1,0 +1,12 @@
+h1 {
+    color: brown;
+    font-size: 46px;
+    text-align: center;
+}
+h2{
+    color: violet;
+    font-size: 28px;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:right ;
+}
